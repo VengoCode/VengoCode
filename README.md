@@ -1,11 +1,3 @@
---mainTextColor:var(--mainTextColor-light); 
---secondaryTextColor:(--secondaryTextColor-light);
---mainLinkColor:var(--mainLinkColor-light);
---mainBorderColor:var(--mainBorderColor-light);
---mainBgColor:var(--mainBgColor-light);
-
-
-
 # Anthony (Tony) Vengoechea BSME, Project Engineer
 ---
 ![This is a alt text.](/image/sample.png "This is a sample image.")
