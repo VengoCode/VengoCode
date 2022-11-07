@@ -1,62 +1,75 @@
-# **Anthony(Tony) Vengoechea**
-An engineering  building and leading engineering teams at Apple Inc
+# Anthony (Tony) Vengoechea BSME, Project Engineer
+---
+![This is a alt text.](/image/sample.png "This is a sample image.")
 
-## Work Experience
+---
+## ABOUT
+Professional Mechanical Engineer with more than six (6) years of experience in various fields from Audio/Video Engineering, to Manufacturing and Design. Accomplishments range from managing Continuous Improvement Projects for one of the largest global manufacturers of comprehensive water products, Watts Water Technologies; to designing and managing the production of custom artisan lighting fixtures for the luxury market with Alger-Triton International. Currently working, as Project Engineer, designing conferencing solutions for a number of large-scale projects for many high-profile clients, (Apple, Indeed, JPMorgan Chase, and Cloudera), for one US leader in the Audio-Video Industry. Finally, I am a proud graduate of Arizona State University, Ira A. Futons School of Engineering. Go, Devils!
 
-### Apple Inc
-->_Copenhagen_
+---
+## Certifications:
+* Microsoft: Team Administrator Associate 
+* CTI-P201 Foundations of Crestron Programming Certification
+* Crestron DMC-T / DMC-E / DMC-D Certification
+* Extron: Control Professional / Specialist
+* Audinate: Dante Level 1-3 Certified 
+* QSC: Q-sys Level 1-2 Certified
+* Biamp: Tesira Forte Level 1 Certified
+* OSHA 10
 
-**Engineering Manager**
-->_Jan 2019 to Present_
 
-- Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
-- Contributed to company-wide engineering initiatives
-- Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
 
-**Backend Engineer, Financial Data**
-->_April 2018 to December 2018_
-
-- Built large-scale (petabyte-size) financial data platform/solution/pipelines using Big Data technologies
-- Worked cross-functionally with many teams: Engineering, Treasury, Finance, Accounting, etc.
-- Worked on systems critical to future operation, with impact over billions of dollars of payments volume.
-- Developed a deep understanding of modern payments and financial technology across many countries.
-
-### Stripe
-->_San Francisco, CA_
-
-**Full Stack Engineer**
--> _September 2016 to March 2018_
-
-- Responsible for developing, maintaining internal web applications
-- Collaborated with technical and business staff in design, development, testing and implementation
-- Set up, managed and monitored systems to ensure business continuity
-
-### Bloomberg
-->_New York, NY_
-
-**Software Engineer Intern**
-->_June 2016 to August 2016_
-
-- Worked on Bloomberg's platform to enhance the user experience
-- Proactively participated in the team's weekly meetings and conducted reports on the project's progress
 
 ## Skills
 
-Technical: `Python` `Go` `Microservices Architecture`
-
-Management: `Kanban Methodology` `Scrum`
-
-## Education
-
-### Carnegie Mellon University
-->_2014-2016_
-**Masters of Computer Science**, _Pittsburgh, Pennsylvania_
-
-### The State University of NY
-->_2010 - 2014_
-**Bachelor of Engineering**,  _Oswego, New York_
+| 2D & 3D Design |  Programming  | Right columns |
+| -------------  |:-------------:|:-------------:|
+| AutoCAD        | HTML          |
+| Solidworks     | CSS           |
+| Vector Works   | JavaScript    |
 
 ---
+## Experience (Work History) 
 
-||: Email: **<katemiller@gmail.com>** || Phone: **+123 456 789** || Website: **[katemiller.com](katemiller.com)** :||
+### AVI-SPL
+### Project Engineer
+##### Feb 2022 - Present · 10 mos
+##### Scottsdale, Arizona, United States
 
+As a Project Engineer I work closely with end users, Engineering Managers, Sales, AV technicians, third-party architecture and engineering firms, and vendors to design, evaluate, and manage audiovisual systems. Designs are typically targeted to meeting and presentation spaces, video conferencing rooms, auditoriums, interactive collaboration, video/audio conferencing, digital signage, streaming video, and master control centers.
+
+Skills: 'Microsoft Office' · 'Engineering' · 'Customer Service"
+
+
+### Ford Audio Video 
+### Project Engineer
+##### Mar 2018 - Jan 2022 · 3 yrs 11 mos
+##### Phoenix, Arizona, United States
+
+Recognized as a US leader in the Audio-Visual Industry. Ford Audio Video designs, installs, and services professional commercial sound, audio-video, and lighting systems for organizations including businesses, educational facilities, churches, entertainment, government, performing arts centers, and sporting venues. 
+
+Skills: Audio Visual System Design · Distributed Control System (DCS) · Digital Signal Processors · Customer Service · AutoCAD
+
+### Alger-Triton International
+### Mechanical Engineer / Project Manager 
+##### Oct 2015 - Jan 2018 · 2 yrs 4 mos
+##### Dongguan,China / Culver City, Califorina / Phoenix, Arizona
+
+
+Alger-Triton International logo
+Mechanical Engineer / Project Manager Mechanical Engineer / Project Manager 
+Alger-Triton International · Full-timeAlger-Triton International · Full-time
+Oct 2015 - Jan 2018 · 2 yrs 4 mosOct 2015 - Jan 2018 · 2 yrs 4 mos
+Dongguan,China / Culver City, Califorina / Phoenix, ArizonaDongguan,China / Culver City, Califorina / Phoenix, Arizona
+Recognized as a global leader in the luxury market for custom distinctive lighting elements., Alger-Triton International exemplifies the balance between quality products, and impeccable design and boasts a robust portfolio of clients including Ritz-Carlton, Marriott, Hyatt, Hilton, Four Seasons, St. Regis and Westin to name a few. (www.alger-triton.com)
+
+Skills: SOLIDWORKS · Vendor Management · Product Design · Architectural Lighting · Microsoft Office · Engineering · Solidworks · Project Management
+
+### Watts Water Technologies
+### Manufacturing Engineering Intern 
+##### May 2014 - Oct 2015 · 1 yr 6 mos
+##### Peoria, Arizona
+
+Global Manufacturer of Comprehensive Water Products. Founded in 1874, Watts has operations in North America, Europe, and Asia. Watts provide innovative products and solutions to control the flow, efficiency, and safety of water within residential, commercial, and institutional applications. (www.wattswater.com) (NYSE: WTS $1.5 Billion)
+
+Skills: Autodesk Inventor · Lean Six Sigma · Kaizen · Product Management · Microsoft Office · Engineering · Customer Service · Microsoft Excel
