@@ -1,82 +1,62 @@
-# Anthony (Tony) Vengoechea BSME, Project Engineer
-## M Video Engineering Loooking to break into Web Delveopment
+# **Anthony(Tony) Vengoechea**
+An engineering  building and leading engineering teams at Apple Inc
 
-> LinkedIn: 
-> Email: 
-> Phone: 
-------
+## Work Experience
 
-### Profile {#profile}
-Professional Mechanical Engineer with more than six (6) years of experience in various fields from Audio/Video Engineering, to Manufacturing and Design. Accomplishments range from managing Continuous Improvement Projects for one of the largest global manufacturers of comprehensive water products, Watts Water Technologies; to designing and managing the production of custom artisan lighting fixtures for the luxury market with Alger-Triton International. Currently working, as Project Engineer, designing conferencing solutions for a number of large-scale projects for many high-profile clients, (Apple, Indeed, JPMorgan Chase, and Cloudera), for one US leader in the Audio-Video Industry. Finally, I am a proud graduate of Arizona State University, Ira A. Futons School of Engineering. Go, Devils!
+### Apple Inc
+->_Copenhagen_
 
-------
-### Certifications {#certifications}
-• Microsoft: Team Administrator Associate
-• CTI-P201 Foundations of Crestron Programming Certification
-• Crestron DMC-T / DMC-E / DMC-D Certification
-• Extron: Control Professional / Specialist
-• Audinate: Dante Level 1-3 Certified 
-• QSC: Q-sys Level 1-2 Certified
-• Biamp: Tesira Forte Level 1 Certified
-• OSHA 10
-------
-### Technical highlights {#highlights}
-• Experienced in Project Managing
-• Experience with AV, IT and/or telecommunications projects
-• Experience conducting site surveys, designing and installing audio-visual solutions
-• Knowledge of Audio Visual Equipment (Audio, Video, DSP, Control Programming, Large Display)
-• Understanding technical documentation, such as building drawings, AV line diagrams, specification
-• Ability to read, manipulate, modify, and plot integrated systems drawings for construction.
-• Demonstrable understanding of the construction process, installation, and AV integration.
-• Knowledge of networking fundamentals such as: TCP/IP, addressing, firewalls, routers, vlans VPN
+**Engineering Manager**
+->_Jan 2019 to Present_
 
+- Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
+- Contributed to company-wide engineering initiatives
+- Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
 
+**Backend Engineer, Financial Data**
+->_April 2018 to December 2018_
 
+- Built large-scale (petabyte-size) financial data platform/solution/pipelines using Big Data technologies
+- Worked cross-functionally with many teams: Engineering, Treasury, Finance, Accounting, etc.
+- Worked on systems critical to future operation, with impact over billions of dollars of payments volume.
+- Developed a deep understanding of modern payments and financial technology across many countries.
 
+### Stripe
+->_San Francisco, CA_
 
-### Skills {#skills}
+**Full Stack Engineer**
+-> _September 2016 to March 2018_
 
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+- Responsible for developing, maintaining internal web applications
+- Collaborated with technical and business staff in design, development, testing and implementation
+- Set up, managed and monitored systems to ensure business continuity
 
-* Interface Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
+### Bloomberg
+->_New York, NY_
 
-* Project Direction
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+**Software Engineer Intern**
+->_June 2016 to August 2016_
 
--------
+- Worked on Bloomberg's platform to enhance the user experience
+- Proactively participated in the team's weekly meetings and conducted reports on the project's progress
 
-### Technical {#technical}
+## Skills
 
-1. XHTML
-1. CSS
-1. Javascript
-1. Jquery
-1. PHP
-1. CVS / Subversion
-1. OS X
-1. Windows XP/Vista
-1. Linux
+Technical: `Python` `Go` `Microservices Architecture`
 
-------
+Management: `Kanban Methodology` `Scrum`
 
-### Experience {#experience}
+## Education
 
-Initrode Conglomerated
-: *Principal and Creative Lead*
-  __2004-2005__
-  Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
+### Carnegie Mellon University
+->_2014-2016_
+**Masters of Computer Science**, _Pittsburgh, Pennsylvania_
 
-Gizmonic Institute Company (GIM)
-: *Lead Web Designer*
-  __2001-2004__
-  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+### The State University of NY
+->_2010 - 2014_
+**Bachelor of Engineering**,  _Oswego, New York_
 
-------
+---
 
-### Footer {#footer}
+||: Email: **<katemiller@gmail.com>** || Phone: **+123 456 789** || Website: **[katemiller.com](katemiller.com)** :||
 
-Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
-
-------
