@@ -48,7 +48,7 @@ Skills: 'Microsoft Office' · 'Engineering' · 'Customer Service"
 
 Recognized as a US leader in the Audio-Visual Industry. Ford Audio Video designs, installs, and services professional commercial sound, audio-video, and lighting systems for organizations including businesses, educational facilities, churches, entertainment, government, performing arts centers, and sporting venues. 
 
-Skills: Audio Visual System Design · Distributed Control System (DCS) · Digital Signal Processors · Customer Service · AutoCAD
+Skills: `Audio Visual System Design` · Distributed Control System (DCS) · Digital Signal Processors · Customer Service · AutoCAD
 
 ### Alger-Triton International
 ### Mechanical Engineer / Project Manager 
