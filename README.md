@@ -45,6 +45,7 @@ Skills: `Microsoft Office` · `Engineering` · `Customer Service`
 Recognized as a US leader in the Audio-Visual Industry. Ford Audio Video designs, installs, and services professional commercial sound, audio-video, and lighting systems for organizations including businesses, educational facilities, churches, entertainment, government, performing arts centers, and sporting venues. 
 
 Skills: `Audio Visual System Design`, `Distributed Control System (DCS)` · `Digital Signal Processors` · `Customer Service` · `AutoCAD`
+
 ---
 ### Alger-Triton International
 ### Mechanical Engineer / Project Manager 
@@ -60,6 +61,7 @@ Dongguan,China / Culver City, Califorina / Phoenix, ArizonaDongguan,China / Culv
 Recognized as a global leader in the luxury market for custom distinctive lighting elements., Alger-Triton International exemplifies the balance between quality products, and impeccable design and boasts a robust portfolio of clients including Ritz-Carlton, Marriott, Hyatt, Hilton, Four Seasons, St. Regis and Westin to name a few. (www.alger-triton.com)
 
 Skills: `SOLIDWORKS` · `Vendor Management` · `Product Design` · `Architectural Lighting` · `Microsoft Office` · `Engineering` · `Project Management`
+
 ---
 ### Watts Water Technologies
 ### Manufacturing Engineering Intern 
@@ -69,4 +71,5 @@ Skills: `SOLIDWORKS` · `Vendor Management` · `Product Design` · `Architectura
 Global Manufacturer of Comprehensive Water Products. Founded in 1874, Watts has operations in North America, Europe, and Asia. Watts provide innovative products and solutions to control the flow, efficiency, and safety of water within residential, commercial, and institutional applications. (www.wattswater.com) (NYSE: WTS $1.5 Billion)
 
 Skills: `Autodesk Inventor` · `Lean Six Sigma` · `Kaizen` · `Product Management` · `Microsoft Office` · `Engineering` · `Customer Service` · `Microsoft Excel`
+
 ---
