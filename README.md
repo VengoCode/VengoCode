@@ -1,12 +1,10 @@
 # Anthony (Tony) Vengoechea BSME, Project Engineer
 
 ## ABOUT
----
 Professional Mechanical Engineer with more than six (6) years of experience in various fields from Audio/Video Engineering, to Manufacturing and Design. Accomplishments range from managing Continuous Improvement Projects for one of the largest global manufacturers of comprehensive water products, Watts Water Technologies; to designing and managing the production of custom artisan lighting fixtures for the luxury market with Alger-Triton International. Currently working, as Project Engineer, designing conferencing solutions for a number of large-scale projects for many high-profile clients, (Apple, Indeed, JPMorgan Chase, and Cloudera), for one US leader in the Audio-Video Industry. Finally, I am a proud graduate of Arizona State University, Ira A. Futons School of Engineering. Go, Devils!
 
 
 ## Certifications:
----
 * Microsoft: Team Administrator Associate 
 * CTI-P201 Foundations of Crestron Programming Certification
 * Crestron DMC-T / DMC-E / DMC-D Certification
@@ -17,7 +15,6 @@ Professional Mechanical Engineer with more than six (6) years of experience in v
 * OSHA 10
 
 ## Skills
----
 | 2D & 3D Design |  Programming  | Right columns |
 | -------------  |:-------------:|:-------------:|
 | AutoCAD        | HTML          |
@@ -26,8 +23,8 @@ Professional Mechanical Engineer with more than six (6) years of experience in v
 
 
 ## Experience (Work History) 
----
 ### AVI-SPL
+---
 ### Project Engineer
 ##### Feb 2022 - Present · 10 mos
 ##### Scottsdale, Arizona, United States
@@ -36,18 +33,22 @@ As a Project Engineer I work closely with end users, Engineering Managers, Sales
 
 Skills: `Microsoft Office` · `Engineering` · `Customer Service`
 
----
 ### Ford Audio Video 
+---
 ### Project Engineer
 ##### Mar 2018 - Jan 2022 · 3 yrs 11 mos
 ##### Phoenix, Arizona, United States
 
 Recognized as a US leader in the Audio-Visual Industry. Ford Audio Video designs, installs, and services professional commercial sound, audio-video, and lighting systems for organizations including businesses, educational facilities, churches, entertainment, government, performing arts centers, and sporting venues. 
 
-Skills: `Audio Visual System Design`, `Distributed Control System (DCS)` · `Digital Signal Processors` · `Customer Service` · `AutoCAD`
+Technical Skills: `AutoCAD`, `Visio` , `Bluebeam`, `PlanGrid` , `Feildwire`
+Control Programming: `Crestron` , `Extron` , `QSC`
+DSP Programming:  `Q-sys`, `Tesire`, 
+Other Skills: `Audio Visual System Design`, `Distributed Control System (DCS)` · `Digital Signal Processors` · `Customer Service`
 
----
+
 ### Alger-Triton International
+---
 ### Mechanical Engineer / Project Manager 
 ##### Oct 2015 - Jan 2018 · 2 yrs 4 mos
 ##### Dongguan,China / Culver City, Califorina / Phoenix, Arizona
