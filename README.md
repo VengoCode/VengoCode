@@ -23,7 +23,6 @@ Professional Mechanical Engineer with more than six (6) years of experience in v
 
 
 ## Experience (Work History) 
----
 ### AVI-SPL
 ### Project Engineer
 ##### Feb 2022 - Present · 10 mos
